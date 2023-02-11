@@ -1,13 +1,13 @@
 <template>
   <el-carousel indicator-position="outside" height:700px class="carousel_size">
     <el-carousel-item >
-      <img src="../assets/img/pon1.jpg" style height="300px" width="400px" >
+      <img src="https://github.com/haramisuky/spa_test/blob/master/src/assets/img/pon1.jpg?raw=true" style height="300px" width="400px" >
     </el-carousel-item>
     <el-carousel-item img v-bind:src="imgSrc2">
-      <img src="../assets/img/uni1.jpg" style height="300px" width="400px" >
+      <img src="https://github.com/haramisuky/spa_test/blob/master/src/assets/img/uni1.jpg?raw=true" style height="300px" width="400px" >
     </el-carousel-item>
     <el-carousel-item img v-bind:src="imgSrc3">
-      <img src="../assets/img/chima1.jpg" style height="300px" width="400px" >
+      <img src="https://github.com/haramisuky/spa_test/blob/master/src/assets/img/chima1.jpg?raw=true" style height="300px" width="400px" >
     </el-carousel-item>
   </el-carousel>
 
